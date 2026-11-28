@@ -1,4 +1,4 @@
-# [lantern01's yuri]()
+# [lantern01's yuri](https://crackmes.one/crackme/6b05de424b6d53e8802ed86e)
 
 Author:
 lantern01
